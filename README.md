@@ -35,6 +35,7 @@
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-%23464854.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-%235C2D91.svg?style=for-the-badge&logo=php&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-%230078C1.svg?style=for-the-badge&logo=yii&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
